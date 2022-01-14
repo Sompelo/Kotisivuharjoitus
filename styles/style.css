@@ -1,0 +1,39 @@
+
+.tausta {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    opacity: 1;
+    z-index: -1;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+body {
+    /*background-image: url("images\Antares_Rho_Ophs.jpg");*/
+    background-color: #000000; 
+}
+
+h2 {
+    text-align: center;
+    color: #dd22dd;
+}
+
+p {
+    /* background-image:repeating-linear-gradient(#cc22dd); */
+    background-color: #6666cc;
+    position:relative;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    padding: 15px;
+    color: greenyellow;
+    width: 40%;
+}
+
+a {
+    color: #dddd22;
+}
