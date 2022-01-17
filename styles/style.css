@@ -1,3 +1,15 @@
+.flex-contianer {
+    display: flex;
+    justify-content: center;
+    background-color: #dd22dd;
+}
+
+.flex-contianer > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
 
 .tausta {
     position: absolute;
